@@ -43,7 +43,7 @@ pip install opencv-python pillow
 │   ├── prompt_01/
 │   ├── ...
 ├── ip-adapter-faceid_sd15.bin   # Чекпойнт IP-Adapter
-├── script.py                    # Основной скрипт генерации
+├── FaceGen.ipynb                    # Основной скрипт генерации
 ├── README.md                    # Описание проекта
 ```
 
